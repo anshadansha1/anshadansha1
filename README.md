@@ -20,7 +20,7 @@
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /></a>
       <br>CSS
     </td>
     <td align="center" width="96">
@@ -57,7 +57,7 @@
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></a>
       <br>C++
     </td>
     <td align="center" width="96">
