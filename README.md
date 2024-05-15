@@ -7,10 +7,7 @@
    <li><h3 align="left">Developer</h3></li>
    <li><h3 align="left">Freelancer</h3></li>
 </ul>
-
-
-
-
+<br>
 <p > <img src="https://komarev.com/ghpvc/?username=anshadansha1&label=Profile%20views&color=0e75b6&style=flat" alt="anshadansha1" /> </p>
 
 <h3 align="left">Check me out :</h3>
