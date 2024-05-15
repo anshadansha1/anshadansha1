@@ -20,7 +20,7 @@
       <br>C
     </td>
     <td align="center" width="96"> 
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="java-4.svg" width="48" height="48" alt="Git" /></a>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Git" /></a>
     s  <br>.Net
     </td>
     <td align="center" width="96">
