@@ -1,9 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Anshad</h1>
-<font size=4 >I'm a</font>
-<h2 >Developer</h2>
-<h2 >System Engineer</h2>
-<h2 >Freelancer</h2>
+<font size=6 >I'm a</font>
+<font size=4 >Developer</font>
+<font size=4 >System Engineer</font>
+<font size=4 >Freelancer</font>
+
 <p > <img src="https://komarev.com/ghpvc/?username=anshadansha1&label=Profile%20views&color=0e75b6&style=flat" alt="anshadansha1" /> </p>
 
 <h3 align="left">Check me out :</h3>
