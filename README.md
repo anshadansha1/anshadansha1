@@ -1,11 +1,6 @@
-<section id="hero" class="d-flex flex-column justify-content-center align-items-center">
-    <div class="hero-container" data-aos="fade-in">
-      <h1>Muhammad Anshad P A</h1>
-      <p>I'm <span class="typed" data-typed-items="Developer,System Engineer, Freelancer "></span></p>
-    </div>
-  </section>
 
 <h1 align="center">Hi 👋, I'm Muhammad Anshad</h1>
+<p align="center">I'm <span class="typed" data-typed-items="Developer,System Engineer, Freelancer "></span></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshadansha1&label=Profile%20views&color=0e75b6&style=flat" alt="anshadansha1" /> </p>
 
 <h3 align="left">Check me out :</h3>
