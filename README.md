@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Anshad</h1>
-<p align="center">I'm <span class="typed" data-typed-items="Developer,System Engineer, Freelancer "></span></p>
+<h1 align="center">Developer</h1>
+<h1 align="center">System Engineer</h1>
+<h1 align="center">Freelancer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshadansha1&label=Profile%20views&color=0e75b6&style=flat" alt="anshadansha1" /> </p>
 
 <h3 align="left">Check me out :</h3>
