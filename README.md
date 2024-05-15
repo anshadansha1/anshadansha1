@@ -76,6 +76,10 @@
   </tr>
  
 <tr>
+   <td align="center" width="96">
+        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+      <br>Flask
+    </td>
   <td align="center" width="96">
         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="logo-android.svg" alt="android" width="40" height="40"/> </a>
       <br>Android
@@ -102,11 +106,8 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-      </td>
+      
+   </td>
    
   
  </tr>
