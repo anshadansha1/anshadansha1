@@ -2,9 +2,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anshad</h1>
 
 <h3 align="left">I'm a :</h3>
-<h3 align="left">&nbspSystem Engineer</h3>
-<h3 align="left">Developer</h3>
-<h3 align="left">Freelancer</h3>
+<ul>
+   <li><h3 align="left">System Engineer</h3></li>
+   <li><h3 align="left">Developer</h3></li>
+   <li><h3 align="left">Freelancer</h3></li>
+</ul>
+
+
+
 
 <p > <img src="https://komarev.com/ghpvc/?username=anshadansha1&label=Profile%20views&color=0e75b6&style=flat" alt="anshadansha1" /> </p>
 
