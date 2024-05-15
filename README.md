@@ -33,10 +33,10 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
+         <td align="center" width="96">
+        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="nodejs-1.svg" alt="icon" width="65" height="65" /></a>
+      <br>Node JS
+    </td>
       </td>
  </tr>
   <tr>
