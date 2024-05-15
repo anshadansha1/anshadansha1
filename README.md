@@ -11,8 +11,7 @@
 <!--User Views-->
 <p > <img src="https://komarev.com/ghpvc/?username=anshadansha1&label=Profile%20views&color=0e75b6&style=flat" alt="anshadansha1" /> </p>
 
-<h3 align="left">Check me out :</h3>
-<a href="https://muhammadanshadparajagiri.on.drv.tw/www.anshadanshaportfolio.com/">https://muhammadanshadparajagiri.on.drv.tw/www.anshadanshaportfolio.com/</a><br>
+<h3 align="left">Check me out :</h3><br>
 <!--Social-->
 <p align="center">
  <a href="https://muhammadanshadparajagiri.on.drv.tw/www.anshadanshaportfolio.com/" target="blank">
