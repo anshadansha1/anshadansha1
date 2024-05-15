@@ -16,11 +16,11 @@
       <br>Node JS
     </td>
     <td align="center" width="96">
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="icon" width="65" height="65" />
-      <br>C#
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="icon" width="65" height="65" /></a>
+      <br>C
     </td>
     <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Git" />
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="java-4.svg" width="48" height="48" alt="Git" /></a>
     s  <br>.Net
     </td>
     <td align="center" width="96">
