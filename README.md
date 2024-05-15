@@ -76,6 +76,7 @@
  </tr>
 </table>
 <p align="left"> 
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="nodejs-1.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="logo-android.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
