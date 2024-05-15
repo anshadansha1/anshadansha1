@@ -101,15 +101,12 @@
     <td align="center" width="96">
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> </a> 
       <br>Photoshop
-    </td>
-        
+    </td>      
       
    </td>
-   
-  
  </tr>
 </table>
-
+<p align="left"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshadansha1&show_icons=true&locale=en&layout=compact" alt="anshadansha1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshadansha1&show_icons=true&locale=en" alt="anshadansha1" /></p>
