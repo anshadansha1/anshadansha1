@@ -1,9 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Anshad</h1>
-<h1 align="center">Developer</h1>
-<h1 align="center">System Engineer</h1>
-<h1 align="center">Freelancer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshadansha1&label=Profile%20views&color=0e75b6&style=flat" alt="anshadansha1" /> </p>
+<h1 >I'm a</h1>
+<h2 >Developer</h2>
+<h2 >System Engineer</h2>
+<h2 >Freelancer</h2>
+<p > <img src="https://komarev.com/ghpvc/?username=anshadansha1&label=Profile%20views&color=0e75b6&style=flat" alt="anshadansha1" /> </p>
 
 <h3 align="left">Check me out :</h3>
 <a href="https://muhammadanshadparajagiri.on.drv.tw/www.anshadanshaportfolio.com/">https://muhammadanshadparajagiri.on.drv.tw/www.anshadanshaportfolio.com/</a><br>
