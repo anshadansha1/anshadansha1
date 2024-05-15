@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Anshad</h1>
 
-<h3 align="left">I'm a :</h3>
-<ul style="list-style-type:circle;">
+<h2 align="left">I'm a :</h2>
+<ul>
    <li><h3 align="left">System Engineer</h3></li>
    <li><h3 align="left">Developer</h3></li>
    <li><h3 align="left">Freelancer</h3></li>
