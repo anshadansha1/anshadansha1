@@ -12,11 +12,11 @@
 <table align="center">
    <tr>
    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /></a>
       <br>Django
     </td>
    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /></a>
       <br>HTML5
     </td>
     <td align="center" width="96">
@@ -31,7 +31,7 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></a>
       <br>JavaScript
     </td>
          <td align="center" width="96">
@@ -44,7 +44,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></a>
       </a>
       <br>Python
     </td>
@@ -66,7 +66,7 @@
     </td>
      
    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></a>
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -84,7 +84,7 @@
         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="logo-android.svg" alt="android" width="40" height="40"/> </a>
       <br>Android
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+       <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></a>
       <br>Github
     </td>
     <td align="center"  width="96">
@@ -96,16 +96,13 @@
       <br>Ms Azure
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux-tux.svg" alt="linux" width="40" height="40"/> </a> 
+      <br>Linux
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> </a> 
+      <br>Photoshop
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
+        
       
    </td>
    
@@ -128,7 +125,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="logo-javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="laravel-2.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux-tux.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> </a> 
