@@ -61,8 +61,8 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="laravel-2.svg" alt="laravel" width="40" height="40"/> </a> 
+      <br>Laravel
     </td>
      
    <td align="center" width="96">
