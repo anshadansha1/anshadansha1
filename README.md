@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Anshad</h1>
-<h1 >I'm a</h1>
+<font size=4 >I'm a</font>
 <h2 >Developer</h2>
 <h2 >System Engineer</h2>
 <h2 >Freelancer</h2>
