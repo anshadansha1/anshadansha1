@@ -92,8 +92,8 @@
       <br>Arduino
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+      <br>Ms Azure
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
