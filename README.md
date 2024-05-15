@@ -70,12 +70,12 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-      <br>Node JS
+        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="oracle-6.svg" alt="oracle" width="40" height="40"/> </a> 
+      <br>Oracle
     </td>
   </tr>
  
-    <tr>
+<tr>
   <td align="center" width="96">
         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="logo-android.svg" alt="android" width="40" height="40"/> </a>
       <br>Android
