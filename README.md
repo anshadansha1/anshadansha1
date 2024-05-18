@@ -121,6 +121,28 @@
       
    </td>
  </tr>
+ <tr>
+   <td align="center" width="96">
+        <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="npm.svg" alt="flask" width="40" height="40"/> </a>
+      <br>npm
+    </td>
+  <td align="center" width="96">
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="express.svg" alt="android" width="40" height="40"/> </a>
+      <br>express
+    <td align="center" width="96">
+       <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="postman.svg" alt="icon" width="65" height="65" /></a>
+      <br>postman
+    </td>
+    <td align="center"  width="96">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="mongodb.svg" alt="arduino" width="40" height="40"/> </a> 
+      <br>MongoDB
+    </td>
+    
+  
+       
+      
+   </td>
+ </tr>
 </table>
 <p align="left"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshadansha1&show_icons=true&locale=en&layout=compact" alt="anshadansha1" /></p>
